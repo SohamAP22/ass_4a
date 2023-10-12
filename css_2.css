@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(235, 168, 91);
+}
+/* @font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+ }
+ 
+ * {
+    font-family: myFirstFont;
+ } */
+header{
+    text-align: center;
+   color: blueviolet;
+   font-family:'Courier New', Courier, monospace;
+}
+
+#pic{
+    text-align: center;
+    padding-top:10px;
+    padding-bottom:50px;
+    padding-right:10px;
+    padding-left:20px;
+}
+#sub_but:hover{
+    color: blue;
+}
